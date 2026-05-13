@@ -44,11 +44,11 @@ Currently Working On:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=[JoshNvrDieX]&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark&hide_border=true&currstreak_color=007ACC&ring_color=007ACC&side_main_color=0D1117&side_border_color=0D1117&dates_color=E0E0E0)
+![](https://github-readme-streak-stats.herokuapp.com/?user=[JoshNvrDieX]&theme=dark&hide_border=true&currstreak_color=007ACC&ring_color=007ACC&side_main_color=0D1117&side_border_color=0D1117&dates_color=E0E0E0)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=[JoshNvrDieX]&layout=compact&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
 
 </div>
 
@@ -58,7 +58,7 @@ Currently Working On:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=[JoshNvrDieX]&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
