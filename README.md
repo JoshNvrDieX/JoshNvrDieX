@@ -44,11 +44,11 @@ Currently Working On:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=[JoshNvrDieX]&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=[JoshNvrDieX]&theme=dark&hide_border=true&currstreak_color=007ACC&ring_color=007ACC&side_main_color=0D1117&side_border_color=0D1117&dates_color=E0E0E0)
+![](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark&hide_border=true&currstreak_color=007ACC&ring_color=007ACC&side_main_color=0D1117&side_border_color=0D1117&dates_color=E0E0E0)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[JoshNvrDieX]&layout=compact&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=E0E0E0&bg_color=0D1117)
 
 </div>
 
@@ -58,7 +58,7 @@ Currently Working On:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=[JoshNvrDieX]&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -66,8 +66,8 @@ Currently Working On:
 
 ## 🌌 Featured Projects
 
-- ⚡ **Discord Webhook Platform**: A robust and scalable platform for managing and sending Discord webhooks, engineered for high-throughput communication.
-- 🎮 **FiveM Resources**: Custom scripts and assets developed for the FiveM modding community, focusing on performance and immersive gameplay.
+- ⚡ **[Altivora Hosting](https://altivorahosting.com/)**: High-performance game and web hosting solutions designed for scale. Reliable, fast, and built for the community.
+- 🎮 **[Vagos Roleplay](https://vagosroleplay.co.in/)**: An immersive, community-driven FiveM roleplay experience featuring custom scripts, deep lore, and active development.
 - 🤖 **Discord Bots**: Interactive and utility-focused bots designed to enhance Discord server functionality with advanced automation and user engagement features.
 - 🌐 **Web UI Concepts**: Modern and responsive user interface designs for various web applications, pushing the boundaries of digital aesthetics.
 - 🖥 **Hosting Projects**: Optimized solutions and configurations for VPS hosting and server management, ensuring maximum uptime and efficiency.
@@ -84,11 +84,15 @@ Focused on code, fueled by good music 🎧
 
 ## 📫 Connect
 
-- **Discord**: `[josh.cpde]`
-- **Instagram**: `[joshnvrdie]`
-- **Website**: `[https://joshh.fun]`
-- **VagosRoleplay**: `[https://vagosroleplay.co.in/]`
-- **AltivoraHosting**: `[https://altivorahosting.com/]`
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-josh.cpde-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/josh.cpde) 
+[![Instagram](https://img.shields.io/badge/Instagram-joshnvrdie-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshnvrdie/) 
+[![Website](https://img.shields.io/badge/Website-joshh.fun-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joshh.fun/)
+[![VagosRoleplay](https://img.shields.io/badge/VagosRoleplay-vagosroleplay.co.in-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://vagosroleplay.co.in/) 
+[![AltivoraHosting](https://img.shields.io/badge/AltivoraHosting-altivorahosting.com-orange?style=for-the-badge&logo=aws&logoColor=white)](https://altivorahosting.com/)
+
+</div>
 
 ---
 
