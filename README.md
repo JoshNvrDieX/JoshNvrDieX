@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Open-Source+Contributor;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Discord And FiveM Developer;Full-Stack+Developer;Open-Source+Contributor;Always+Learning+%26+Building" />
 
 </div>
 
@@ -86,7 +86,7 @@ Focused on code, fueled by good music 🎧
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-josh.cpde-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/josh.cpde) 
+[![Discord](https://img.shields.io/badge/Discord-josh.code-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/josh.code) 
 [![Instagram](https://img.shields.io/badge/Instagram-joshnvrdie-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshnvrdie/) 
 [![Website](https://img.shields.io/badge/Website-joshh.fun-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joshh.fun/)
 [![VagosRoleplay](https://img.shields.io/badge/VagosRoleplay-vagosroleplay.co.in-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://vagosroleplay.co.in/) 
