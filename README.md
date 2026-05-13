@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Discord And FiveM Developer;Full-Stack+Developer;Open-Source+Contributor;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Discord-FiveM+Developer;Full-Stack+Developer;Open-Source+Contributor;Always+Learning+%26+Building" />
 
 </div>
 
